@@ -7,5 +7,3 @@
 
 # Collaborate with us on:
 - [Sitio Smart Managment](https://github.com/CommonSoftware/webapp-sitio-smart)
-- [Template Landing Page](https://github.com/CommonSoftware/webapp-lp-template)
-- [Parking Management - Management of entry and exit of vehicles to parking](https://github.com/CommonSoftware/webapp-parking-management)
